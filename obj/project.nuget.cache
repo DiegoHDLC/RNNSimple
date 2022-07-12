@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQt1oMvyrb3vdLjK9SbjdayQWr4enSXU4K3IGoap0N5NSJF4iSLIUaSJckRgnFqIFQKGp9whIUIkfhRrQuhnUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\di_eg\\OneDrive\\Documents\\RepoCSharp\\RNNSIMPLE\\rnn-master\\rnn-master\\rnn-master.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\di_eg\\.nuget\\packages\\brightdata\\3.0.3\\brightdata.3.0.3.nupkg.sha512",
+    "C:\\Users\\di_eg\\.nuget\\packages\\brightwire\\3.0.3\\brightwire.3.0.3.nupkg.sha512",
+    "C:\\Users\\di_eg\\.nuget\\packages\\brightwire.cuda.x64\\2.1.1\\brightwire.cuda.x64.2.1.1.nupkg.sha512",
+    "C:\\Users\\di_eg\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\di_eg\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\di_eg\\.nuget\\packages\\protobuf-net\\2.4.0\\protobuf-net.2.4.0.nupkg.sha512",
+    "C:\\Users\\di_eg\\.nuget\\packages\\system.private.servicemodel\\4.5.3\\system.private.servicemodel.4.5.3.nupkg.sha512",
+    "C:\\Users\\di_eg\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\di_eg\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\di_eg\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\di_eg\\.nuget\\packages\\system.servicemodel.primitives\\4.5.3\\system.servicemodel.primitives.4.5.3.nupkg.sha512",
+    "C:\\Users\\di_eg\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
